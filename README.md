@@ -6,8 +6,8 @@
 
 ### :ant: About Me :
 - 👋 Hi, I’m Vanshul.
-- 👀 I like to solve and create. 
-- 🌱 I'm constantly seeking new topics to explore. 
+- 👀 I like to solve and build creatively.
+- 🌱 I'm looking for a new job right now!
 - :seal: Feel free to contact : [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanshul-kumar/)
 
 
